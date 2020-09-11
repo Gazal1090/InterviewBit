@@ -1,4 +1,5 @@
 // https://www.interviewbit.com/problems/min-steps-in-infinite-grid/
+// O(N) solution
 
 int Solution::coverPoints(vector<int> &A, vector<int> &B) {
     
@@ -9,4 +10,3 @@ int Solution::coverPoints(vector<int> &A, vector<int> &B) {
     return ans;
 }
 
-// O(n) solution
