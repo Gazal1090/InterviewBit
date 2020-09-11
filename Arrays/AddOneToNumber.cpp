@@ -1,6 +1,8 @@
 // https://www.interviewbit.com/problems/add-one-to-number/
 
- int carry = 1,i;
+ vector<int> Solution::plusOne(vector<int> &A) {
+  
+  int carry = 1,i;
     for( i = A.size()-1; i >= 0 ; i--){
         
         A[i] += carry;
