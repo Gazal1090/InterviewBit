@@ -4,15 +4,15 @@
 
 int Solution::maxSubArray(const vector<int> &A) {
     
-    int sum = INT_MIN, temp = 0;
+    int sum = INT_MIN, temp_sum = 0;
     
     for( int i = 0 ; i < A.size() ; i++){
         
-        temp += A[i];
-        sum = max(temp,sum);
+        temp_sum += A[i];
+        sum = max(temp_sum,sum);
         
-        if( temp <= 0)
-            temp = 0;
+        if( temp_sum <= 0)
+            temp_sum = 0;
     }
     return sum;
 }
