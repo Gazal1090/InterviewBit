@@ -1,4 +1,4 @@
-# [InterviewBit]https://www.interviewbit.com/practice/
+# [InterviewBit](https://www.interviewbit.com/practice/)
 Solutions to problems on Interview Bit
 
 *[My InterviewBit Profile](https://www.interviewbit.com/profile/2018csb1090_05afa8884f71)
