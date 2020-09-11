@@ -4,7 +4,7 @@ Solutions to problems on Interview Bit
 *[My InterviewBit Profile](https://www.interviewbit.com/profile/2018csb1090_05afa8884f71)
 
 ## Information
-The repository contains solutions to various [programming problems](https://www.interviewbit.com/courses/programming/)) on InterviewBit. The code is merely a snippet (as solved on InterviewBit) & hence is not executable in a c++ compiler.
+The repository contains solutions to various [programming problems](https://www.interviewbit.com/courses/programming/) on InterviewBit. The code is merely a snippet (as solved on InterviewBit) & hence is not executable in a c++ compiler.
 <br/>
 
 ## How to contribute?
