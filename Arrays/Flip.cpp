@@ -1,4 +1,4 @@
-[Question](https://www.interviewbit.com/problems/flip/)
+//https://www.interviewbit.com/problems/flip/
 // O(N) Solution
 
 vector<int> Solution::flip(string A) {
